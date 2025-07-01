@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gitshivani5054/my-react-website.git/static/css/main.8af280c2.css",
+    "main.js": "/gitshivani5054/my-react-website.git/static/js/main.3d0411a7.js",
+    "static/js/453.ed3810f9.chunk.js": "/gitshivani5054/my-react-website.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/gitshivani5054/my-react-website.git/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/gitshivani5054/my-react-website.git/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/gitshivani5054/my-react-website.git/index.html",
+    "main.8af280c2.css.map": "/gitshivani5054/my-react-website.git/static/css/main.8af280c2.css.map",
+    "main.3d0411a7.js.map": "/gitshivani5054/my-react-website.git/static/js/main.3d0411a7.js.map",
+    "453.ed3810f9.chunk.js.map": "/gitshivani5054/my-react-website.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8af280c2.css",
+    "static/js/main.3d0411a7.js"
+  ]
+}
